@@ -2,3 +2,13 @@
     background-color: chartreuse;
     padding: 10px;
 }
+#gola{
+    width: 200px;
+    height: 250px;
+    border: 7px solid red;
+    display: block;
+    margin: auto; 
+}
+#caption{
+    text-align:center ;
+}
